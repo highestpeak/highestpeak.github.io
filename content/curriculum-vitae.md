@@ -24,7 +24,7 @@ Experienced Java Backend Development Engineer with over three years at Kuaishou,
 
 Proven track record in performance optimization and data structure enhancement, including a major overhaul of the Operational Transformation protocol for online forms.  
 
-Passionate about managing software complexity and fostering innovative development, which align with key areas in software engineering and my upcoming master's studies. Seeking to contribute to an international company while engaging in open-source projects and independent development.
+Passionate about managing software complexity and fostering innovative development. Seeking to contribute to an international company while engaging in open-source projects and independent development.
 
 ---
 
