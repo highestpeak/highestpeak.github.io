@@ -1,4 +1,4 @@
-# curriculum vitae
+# Curriculum Vitae
 
 
 **[Online nickname: highestpeak]**
