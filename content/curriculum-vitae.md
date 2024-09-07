@@ -101,6 +101,7 @@ September 2017 – June 2021
 **Languages:**
 
 **Mandarin:** Native
+
 **English:** IELTS
 - Listening: 6.5
 - Reading: 7.5

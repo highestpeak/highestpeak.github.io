@@ -2,9 +2,11 @@
 title: 'HelloBlog'
 date: 2024-09-05T21:00:33+08:00
 draft: false
-description: "关于博客的综述、写博客的目的、个人站点的技术选型以及一些展望。"
 tags: ["blog", "init", "personal"]
 categories: ["Blog"]
+featuredImage: https://img.freepik.com/free-vector/japanese-temple-hill_23-2148660096.jpg?t=st=1725698784~exp=1725702384~hmac=22557ebf5df03acebd38d1a239243459b6ae2a13b1704e61a22042b7173051d9&w=1380
+featuredImagePreview: https://img.freepik.com/free-vector/japanese-temple-hill_23-2148660096.jpg?t=st=1725698784~exp=1725702384~hmac=22557ebf5df03acebd38d1a239243459b6ae2a13b1704e61a22042b7173051d9&w=1380
+
 ---
 
 关于博客的综述、写博客的目的、个人站点的技术选型以及一些展望。<br/>
