@@ -413,7 +413,7 @@ languageName = "English"
   enable = true
   # Google Analytics
   [params.analytics.google]
-    id = "GTM-TGB4L45T"
+    id = "G-WGP0GVB4N7"
     # whether to anonymize IP
     anonymizeIP = true
   # Fathom Analytics
