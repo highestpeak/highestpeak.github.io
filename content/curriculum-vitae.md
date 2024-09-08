@@ -22,7 +22,7 @@ GitHub: [https://github.com/highestpeak]
 
 Experienced Java Backend Development Engineer with over three years at Kuaishou, one of China’s top short-video platforms. Expertise in collaborative software development, algorithm processing, and large-scale distributed data-intensive systems. 
 
-Proven track record in performance optimization and data structure enhancement, including a major overhaul of the Operational Transformation protocol for online forms.  
+Proven track record in performance optimization and data structure enhancement, including a major overhaul of the Operational Transformation protocol for online forms.
 
 Passionate about managing software complexity and fostering innovative development. Seeking to contribute to an international company while engaging in open-source projects and independent development.
 
