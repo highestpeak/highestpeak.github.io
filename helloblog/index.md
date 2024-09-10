@@ -1,98 +1,82 @@
 # HelloBlog
 
 
-关于博客的综述、写博客的目的、个人站点的技术选型以及一些展望。<br/>
-WARNING: THIS IS A TMP BLOG. MY SITE IS STILL UNDER BUILDING!
-
-<!--more-->
 
 ## WHOAMI
 
-> 我是谁？我从哪里来？我到哪里去？
+> Who am I? Where do I come from? Where am I going?
 
-WHOAMI 在 CMD 和 BASH 中可以告诉使用者当前用户名，在计算机的角度看像是一种自问自答，从键入者的角度看却有着一些别样的意味。对于一个即将离开学习阶段步入下一个人生阶段的人来说，能够像计算机一样准确和坦然地回答出来倒也是一种幸福，但这终究是一种奢望。当然，不去做无意义的人生思考，也有权利在这里简单地说我是某个什么什么样的人，在哪里哪里学习，将来计划去哪里哪里……
+In CMD and BASH, the `WHOAMI` command tells the user their current username. While this is a straightforward self-query from a computer's perspective, for humans, understanding one's true identity and future direction is much more complex. Most people can't answer "WHOAMI" with the same clarity as a computer, which is a luxury.
 
-笔者是四川大学软件学院的一名本科生，作为一个以技术为生的人现在才开始写这个记录是不合格的（自我认为来说），虽然曾经也有过各种各样的博客构建的道路，但由于挑剔等原因没有一个从一而终，也没写过几篇像样的文章。但是一切总归又开始了。
+During my secondary education in China, I experienced a traditional and rigid system. Although these experiences are not a source of pride, I value the knowledge and lessons I gained, as they were earned through my efforts rather than given to me.
 
-这个博客站点要走到何处呢？不知道，但个人感觉总是要比之前的几个尝试要时间长的多，这么说是有根据的。根据是什么呢？~~很简单，因为这个站点是我一行一行代码敲（copy）上去的，是完完全全的自己的东西，自己的东西当然更加珍惜。~~
+Later, I attended the School of Software at Sichuan University, where I enjoyed more freedom and a broader perspective. I met many people and learned a great deal. Looking back, I realize there were many areas where I could have done better, though trial and error and wasted time are often part of growth. Overall, university was one of my happiest times.
 
-- 2020-10-7 此刻采用 Halo 重新构建，废弃之前的 FLASK，并打算之后进行二次开发
+Since 2021, I have been working in the efficiency engineering department at Kuaishou, focusing on the development, optimization, and maintenance of collaborative office software. I have had the fortune of working with excellent colleagues, participating in meaningful projects, and growing technically. I am grateful for these experiences.
 
-对于本博客书写的内容，是完全的“不讲道理”的，是随心所欲的，但是对于不成熟的文字或者不合理的说法也欢迎阅读者的建议反馈。
+My dream is to become an independent developer, with a few products that sustain me, allowing me more time to study history and computer science, engage in open-source projects, and develop useful software for friends worldwide. I will work towards this goal, but I also need to earn a living, so I will continue working for the company while striving towards my personal objectives.
 
 ## WHY BLOG
 
-> 就个人而言
+There are several reasons for starting a blog:
 
-就个人而言，是比较喜欢记录一些事情，记录一些想法的，虽然想法记录到一个地方是可以方便查阅，但是一些有趣的 idea 总是会丢失在记忆中，抑或是一些 idea 是本身相关的，没有一个地方来把他们放到一起，这是较大的一个损失。
-
-> 就技术而言
-
-就技术而言，无非记录自己的经验、错误，总结知识，以期待知识成体系化、不在接二连三的重复同样的错误、抑或是每天傻乎乎的用着 google 搜索着“python 输出文件中文乱码”云云。
-
-在我看来，这件事和高中时的错题本异曲同工。不久前（虽然也过去了三四年的时间），当我还是一名痛苦的衡水二中学生时，错题本让我痛不欲生，长相优良的错题本总是会让人有欣喜的感觉，相貌丑陋的那一类却不想去翻一翻、看一看，可能这是我们想去买一些精美的本子的理由。另一个角度上也是我们想要一个表象很光鲜亮丽的博客的理由。但是仔细想一想，当错题本真正带给自己分数的提升，或者知识的固化时，那些做出贡献的错题本并不是很漂亮的。很容易发现他们有一个共同点，即简洁、干净、记录有条例、翻的多一点，仅此而已。
-
-> 就生活而言
-
-就生活而言，从技术或者说工作的角度之外看，博客上写的东西也可以看成日记。时光荏苒，岁月如梭，每一天像流水一样逝去，没有痕迹。一个星期很快、一个月也很快、不知不觉到了期末考试、不知不觉又到了腊月回家的时候。自己的脑容量实在是不能恭维有多大可以容下每天的大事小事，多半是那些奇思妙想，那些小事大事都随风逝去。真的要岁月匆匆看着它的尾巴消失掉吗？of course no. 所以，我需要记录一下 life。
+- **Social**
+  - **Applications for School and Work**: A blog can showcase my expertise in more detail than a CV or resume, helping schools and employers better understand my skills.
+  - **Building Influence**: As someone aiming to become an independent developer, I need a platform to build influence and attract my first users.
+  - **Meeting New People**: A blog can help new friends, both online and offline, get to know me better.
+  - **Recording Life**: A blog serves as a record of my life, leaving a trace of time that I can look back on. I hope to say one day, “I existed, and many people knew I existed.”
+- **Content**
+  - **Discussion and Critique**: Engaging in online discussions and critiques helps refine my thinking and ideas.
+  - **Systematic Knowledge**: Organizing and writing complex knowledge systematically deepens my understanding of various fields.
+- **Others**
+  - **A Programmer’s Standard**: Many programmers maintain their own blog sites.
 
 ## BLOG WHAT
 
-> 写
+The content of the blog will focus on:
 
-写博文、写日志（尚未实现加密）、写 GitBook（尚未实现）、记录项目（仅仅 repo 卡片）、写说说？（尚未实现）
+- **Key Topics**
+  - **Systematic Understanding**: Sharing systematic insights into specific areas of interest.
+  - **Path of Independent Development**: Documenting thoughts, understanding, and product releases from the independent development journey.
+  - **Project Participation**: Highlighting significant open-source and personal projects.
+- **Exclusions**
+  - **Experimental Experiences**: Small-scale coding experiments are not suitable for systematic blog content.
+  - **Checklists**: Standards for evaluating code quality or procedural checklists are better suited to other formats.
+  - **Personal Thoughts**: Casual personal reflections may not form valuable articles.
+  - **Knowledge Integration**: Consolidated knowledge that is already available elsewhere is not ideal for original blog content.
+  - **Logs and Jottings**: Casual logs and notes do not meet the professional standards of the blog.
+  - **Sharing Sites and Tools**: Content related to specific sites and tools does not fit the blog’s focus on systematic and professional content.
 
-那么需要写什么呢？就我认为可以有如下几个情形。
+Despite this, the blog will strive to maintain professionalism and focus on systematic and serious content. Readers are encouraged to provide feedback and suggestions on any immature or unreasonable content.
 
-1. 散落在各处的知识，整合起来或者说放到一起会给人一个更为清楚全面的认识。这部分可能在网络上、书籍上到处散落着，可能会把原话照搬过来。中学的时候，我问一个老师什么是“总结”，他告诉我即是把相关联的东西放到一起，从经历来看这是正确的。
-2. 自己的思考，这部分在网络上是没有的，但是确实不容易做出来的文章，没有价值的思考又不值得写下来，但是总是会有的，积少成多，说不定会展现巨大的价值。
-3. 实验或者说一次小小的写代码的经历，这部分多半就是就事论事。
-4. 核对表。一位教过我多门软件工程理论相关课程的老师说：把一些可以用来考量代码好坏的标准记录下来在，需要的时候去看一看，写完的时候去对一对，把不符合标准的地方改过来，肯定会有巨大的进步的（原话类似如此，所授课程为软件构造，教材为《代码大全 第二版》）。这是有道理的。
+PS: Regarding exclusions:
 
-> 分享 (尚未实现)
-
-总有一些站点或者小的工具想要贴出来，总归要有一个地方。
-
-> 进度展示 (尚未实现)
-
-既然有夸下海口复习法，也就可以有挖下天坑往里跳。（还是众人监督的那种）
+- Not all accumulated knowledge will make it to the blog; I have a larger personal knowledge base suited for different purposes.
+- Many topics are better suited to other records, improving efficiency and frequency of writing while maintaining the blog’s professionalism.
 
 ## ALONG THE WAY
 
-其实早在 2018 年中，大一即将结束的时候就萌生了写博客的想法。当时对 CSDN 等一众站点已经心生厌烦。故一开始就没有把 CSDN 等一种站点放在考虑备选。
+The process of building the blog has been full of twists and turns. Here’s a brief overview of my blog journey:
 
-1. 这样的站点简单，不需要太多的维护
-2. 但是我是有点反感把数据交给这样或那样的博文站点的，并且他们的很多博客的排版不忍直视
-3. 然后就是不喜欢当混子 😆（其实是不喜欢样式）
-
-后来在某次搜索中发现了 HEXO，感觉如获至宝，一开始就用上了大家都看过的 NEXT 主题，写了几篇后发现也有一些不方便的地方，具体表现几个地方：
-
-1. 每次发布都需要在本地渲染完毕，然后推送到指定仓库。但是这样就会发现我的 GITHUB 小格子被一众 HTML 和 CSS 什么的污染，不能体现出我只是写了 Markdown 的事实。
-
-（但其实也可以不推送到 GITHUB）
-
-1. 静态化站点不能方便的防止动态内容，例如发布公告等。（当然其实公告也是没多大用）
-2. 评论问题（见下）
-3. 整个构建框架感觉被限制在了 HEXO 的内部，对于一些强自定义的内容不能很好的实现。另外许多前端的内容对于不熟悉前端的我感觉不是很能掌控
-
-再后来由于课程和其他生活的原因，经过了漫长的黑暗时期，即没有任何博客的想法和产出的时期。直到 2020 年初才开始重新整理自己的博客。整个 2019 年总是在和寒号鸟一样想着“我明天就整一下我的博客，我明天就整一下我的博客”。但其实一直没有做。
-
-到了 2020 年，转眼间就要找实习找工作了，为了面试就需要整理一堆知识点，就开始写了一堆 MD，这个时候发现自己的博客搁置已久，但是 HEXO 已经不再让我感到激动。彼时了解到了 FLASK 和 VUE，FLASK 的轻量级写法让我觉得很心动，然后简单写了一个 FLASK 后端，其实也没有安全验证（简单一个授权码），也没有高级的功能，大量的时间其实放在了前端。这个 FLASK 项目写了两个版本的 UI，第一个版本其实感觉是作为熟悉 VUE，第二个版本就模仿的 `hexo-theme-vexo`。这个项目现在还在仓库里（具体可访问：[highestpeakscu-blog](https://github.com/highestpeak/highestpeakscu-blog)）
-
-这个博客采用了一个使用 GITHUB ISSUE 的评论插件 `Vssue`，整体上其实是很好看也很简洁的，但是后来发现一个不太好用的地方，这也是上面说的评论问题：
-
-1. 使用 ISSUE 不能方便的控制评论审核
-2. 某种程度上的 ISSUE 污染
-
-然后就又开始了新的一波构建博客的道路，但不同的是，在这几个月里由于我一直在整理面试的知识点，写了不少 MD，在这个过程中想到了不少的需求，这些需求还有待整理。
-
-终于，在秋招找到工作后，又开始了我的网络家园的建设，奈何我的需求实在是多，只是把基本功能的 CRUD 实现后就发现是一个大坑，而且需要用的技术点多半自己都不是很熟悉（但说实在的，我又熟悉什么呢 ☹）。另一方面，由于没有阶段性成果的激励，使得人没有很强烈的欲望去继续下去。这个时候我想找一些博客来参考一下，就发现了 Halo 这个项目，打开它的时候发现就在我的 STAR 库存里，发现我也确实是收藏家。然后就先花了几天移植了一下 UI，就是现在的博客了。
-
-我现在也不确定 Halo 能不能完成我需求列表的所有内容，但是好像多半能实现，这仍需要我研读一下源码来判断，这也正好提供一个我学习 Spring 的机会。
+- **Mid-2018**:
+  - I first considered blogging in my freshman year, exploring CSDN and Blog Park. Although I wrote a few articles on Blog Park, the platform's limitations and risks made it less appealing.
+  - (Blog Park faced significant issues such as self-censorship, the rise of LLM-related web scraping, and maintenance difficulties.)
+- **End of 2018**:
+  - Discovered [HEXO](https://hexo.io/) and used its NEXT theme. While initially exciting, I found that static sites and HEXO's limitations posed many issues.
+  - (Generated HTML cluttered my GitHub graph, and dynamic content was hard to manage.)
+- **2019-2020**:
+  - Due to academic and life pressures, the blog project was put on hold. In early 2020, I began using Markdown to organize interview notes and developed a simple FLASK backend for the blog. The project included two UI versions, available here: [highestpeakscu-blog](https://github.com/highestpeak/highestpeakscu-blog).
+- **Fall 2020**:
+  - Rebuilt the blog with [HALO](https://github.com/halo-dev/halo), but server maintenance complexities and policy issues decreased my motivation to write.
+  - (HALO project also provided deeper insights into Spring.)
+- **2021-2023**:
+  - Due to transitions between study and work, the blog's updates stalled. However, I accumulated a vast amount of knowledge, totaling around 380,000 words.
+- **2024**:
+  - With the rise of LLMs and the opportunity to apply for a Master’s program, I decided to relaunch the blog. The process of organizing knowledge has led to new ideas and needs, including complex technical issues from my work, insights into LLM and AI applications, and reflections on independent development.
 
 ## END
 
-写博客主要是为了记录自己的想法，给自己一个整理，给时间一个纪念。如果有博文让你喜欢欢迎交流，如果有不当的内容，也欢迎讨论。
+The primary goal of the blog is to record my thoughts, organize my ideas, and leave a mark over time. If you enjoy any of the posts, feel free to reach out; if there are any issues, I welcome discussion.
 
-感谢阅读。
+Thank you for reading.
 
