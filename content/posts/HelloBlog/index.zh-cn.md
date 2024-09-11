@@ -1,13 +1,17 @@
 ---
-title: 'HelloBlog'
+title: HelloBlog
 date: 2024-09-05T21:00:33+08:00
 draft: false
-tags: ["blog", "init", "personal"]
+tags:
+  - blog
+  - init
+  - personal
 summary: 这篇文章介绍了我开设博客的初衷和经历。我希望通过博客记录自己的成长历程，分享对技术领域的体系化认识，并建立个人品牌。文章回顾了我在构建博客过程中遇到的挑战，包括从 HEXO 到 FLASK 和 HALO 的尝试。最终，我决定重新启动博客，以展示专业性、分享开发经验，并记录个人的思想和成就。
-categories: ["Blog"]
-featuredImage: https://img.freepik.com/free-vector/japanese-temple-hill_23-2148660096.jpg?t=st=1725698784~exp=1725702384~hmac=22557ebf5df03acebd38d1a239243459b6ae2a13b1704e61a22042b7173051d9&w=1380
-featuredImagePreview: https://img.freepik.com/free-vector/japanese-temple-hill_23-2148660096.jpg?t=st=1725698784~exp=1725702384~hmac=22557ebf5df03acebd38d1a239243459b6ae2a13b1704e61a22042b7173051d9&w=1380
-
+categories:
+  - Blog
+featuredImage: https://cdn.jsdelivr.net/gh/highestpeak/public-image@master/HelloBlogBanner.png
+featuredImagePreview: https://cdn.jsdelivr.net/gh/highestpeak/public-image@master/HelloBlogBanner.png
+localBannerImageLink: "[[HelloBlogBanner.png]]"
 ---
 
 ## WHOAMI

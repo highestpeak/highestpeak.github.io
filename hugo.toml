@@ -10,6 +10,7 @@ title = "Highestpeak"
 languageCode = "en"
 # language name ["English", "简体中文", "Français", "Polski", ...]
 languageName = "English"
+hasCJKLanguage = true
 
 # Author config
 [author]
@@ -497,3 +498,19 @@ languageName = "English"
   section = ["HTML", "RSS"]
   taxonomy = ["HTML", "RSS"]
   # taxonomyTerm = ["HTML"]
+
+# Multilingual
+# 多语言 (如果不包含这个,则不展示语言切换按钮)
+[languages]
+  [languages.en]
+    weight = 1
+    languageCode = "en"
+    languageName = "English"
+    hasCJKLanguage = false
+    copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License."
+  [languages.zh-cn]
+    weight = 2
+    languageCode = "zh-CN"
+    languageName = "简体中文"
+    hasCJKLanguage = true
+    copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License."
