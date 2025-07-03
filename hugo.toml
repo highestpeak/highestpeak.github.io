@@ -13,7 +13,7 @@ languageName = "English"
 hasCJKLanguage = true
 
 # Author config
-[author]
+[params.author]
   name = "Highestpeak"
   email = "highestpeakpublic@gmail.com"
   link = "https://highestpeak.github.io"
