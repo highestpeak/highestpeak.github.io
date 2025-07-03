@@ -1,7 +1,6 @@
 # HelloBlog
 
 
-
 ## WHOAMI
 
 > Who am I? Where do I come from? Where am I going?
@@ -10,11 +9,17 @@ In CMD and BASH, the `WHOAMI` command tells the user their current username. Whi
 
 During my secondary education in China, I experienced a traditional and rigid system. Although these experiences are not a source of pride, I value the knowledge and lessons I gained, as they were earned through my efforts rather than given to me.
 
-Later, I attended the School of Software at Sichuan University, where I enjoyed more freedom and a broader perspective. I met many people and learned a great deal. Looking back, I realize there were many areas where I could have done better, though trial and error and wasted time are often part of growth. Overall, university was one of my happiest times.
+Later, I attended the School of Software at Sichuan University, where I enjoyed more freedom and a broader perspective. I met many people and learned a great deal. Looking back, I realize there were many areas where I could have done better, though trial and error and wasted time are often part of growth. Overall, university was one of my happiest times. I truly cherish these friendships, memories, and moments of personal growth.
 
 Since 2021, I have been working in the efficiency engineering department at Kuaishou, focusing on the development, optimization, and maintenance of collaborative office software. I have had the fortune of working with excellent colleagues, participating in meaningful projects, and growing technically. I am grateful for these experiences.
 
+![](https://cdn.jsdelivr.net/gh/highestpeak/public-image@master//20250703182137078.png)
+
+Since 2025, I have left my hometown and embarked on my postgraduate journey in Auckland, pursuing a Master’s degree. This marks the beginning of my study-abroad adventure in New Zealand—the story is still unfolding, with new chapters being written every day~
+
 My dream is to become an independent developer, with a few products that sustain me, allowing me more time to study history and computer science, engage in open-source projects, and develop useful software for friends worldwide. I will work towards this goal, but I also need to earn a living, so I will continue working for the company while striving towards my personal objectives.
+
+![](https://cdn.jsdelivr.net/gh/highestpeak/public-image@master//20250703182542769.png)
 
 ## WHY BLOG
 
@@ -73,6 +78,9 @@ The process of building the blog has been full of twists and turns. Here’s a b
   - Due to transitions between study and work, the blog's updates stalled. However, I accumulated a vast amount of knowledge, totaling around 380,000 words.
 - **2024**:
   - With the rise of LLMs and the opportunity to apply for a Master’s program, I decided to relaunch the blog. The process of organizing knowledge has led to new ideas and needs, including complex technical issues from my work, insights into LLM and AI applications, and reflections on independent development.
+- **2025**:
+  - Although I relaunched my blog back in 2024, the transition from a professional developer to a student brought a major increase in academic pressure—assignments piled up endlessly, and to make matters worse, writing a solid blog post turned out to be more time-consuming and mentally demanding than I expected. So, in the past year, my article output has been... well, "remarkable" in its own way (so remarkable that I didn't manage to publish a single post—big laugh).
+  - The good news is that, in the second half of 2025, I plan to apply for research projects. To that end, it's important to give potential supervisors or collaborators a more direct and concrete understanding of who I am. Therefore, I’m planning to select a few topics from my personal knowledge base and organize them into longer articles, gradually "filling the gaps." This will not only help me reflect on and review my learning, but also serve as a way to document my professional growth.
 
 ## END
 
