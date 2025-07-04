@@ -122,5 +122,5 @@ March 2025 - now
 **Additional Information** 
 
 - If you require additional references to verify my work experience or academic records, please email me at [highestpeakpublic@gmail.com], and I will provide detailed contact information and relevant details. 
-- For more information about me, please explore the articles under the [`myself`](https://blog.echopeak.app/categories/myself/) tag on my blog.
+- For more information about me, please explore the articles under the [`myself`](https://highestpeak.github.io/categories/myself/) tag on my blog.
 
