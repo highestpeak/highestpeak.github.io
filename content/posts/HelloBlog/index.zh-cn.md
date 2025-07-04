@@ -8,8 +8,7 @@ tags:
   - personal
   - myself
 summary: 这篇文章介绍了我开设博客的初衷和经历。我希望通过博客记录自己的成长历程，分享对技术领域的体系化认识，并建立个人品牌。文章回顾了我在构建博客过程中遇到的挑战，包括从 HEXO 到 FLASK 和 HALO 的尝试。最终，我决定重新启动博客，以展示专业性、分享开发经验，并记录个人的思想和成就。
-categories:
-  - myself
+categories: ["myself"]
 featuredImage: https://cdn.jsdelivr.net/gh/highestpeak/public-image@master/HelloBlogBanner.png
 featuredImagePreview: https://cdn.jsdelivr.net/gh/highestpeak/public-image@master/HelloBlogBanner.png
 localBannerImageLink: "[[HelloBlogBanner.png]]"

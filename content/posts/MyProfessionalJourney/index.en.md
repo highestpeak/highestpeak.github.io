@@ -19,3 +19,5 @@ featuredImagePreview:
 [[0619-研究什么]]
 [[Challenging projects every programmer should try]]
 独立开发
+
+我喜欢什么，什么游戏，什么科幻小说，什么电影

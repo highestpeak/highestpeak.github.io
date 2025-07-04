@@ -8,8 +8,7 @@ tags:
   - init
   - personal
   - myself
-categories:
-  - myself
+categories: ["myself"]
 featuredImage: https://cdn.jsdelivr.net/gh/highestpeak/public-image@master/HelloBlogBanner.png
 featuredImagePreview: https://cdn.jsdelivr.net/gh/highestpeak/public-image@master/HelloBlogBanner.png
 localBannerImageLink: "[[HelloBlogBanner.png]]"

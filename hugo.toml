@@ -54,11 +54,14 @@ hasCJKLanguage = true
   name = "Projects"
   url = "/projects/"
   title = ""
-# [[menu.main]]
-#   weight = 5
-#   identifier = "about"
-#   name = "About"
-#   url = "/about/"
+[[menu.main]]
+  weight = 5
+  identifier = "friends"
+  pre = ""
+  post = ""
+  name = "Friends"
+  url = "/friends/"
+  title = ""
 
 [params]
   # site default theme ["auto", "light", "dark"]

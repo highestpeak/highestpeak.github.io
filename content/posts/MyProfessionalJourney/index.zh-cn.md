@@ -19,3 +19,6 @@ featuredImagePreview:
 [[0619-研究什么]]
 [[Challenging projects every programmer should try]]
 独立开发
+
+我喜欢什么，什么游戏，什么科幻小说，什么电影
+我研究 协同系统（文档、游戏、数据库、实时通讯-点对点等），复杂数据结构应用，独立开发，生成式AI的应用层，数据可视化

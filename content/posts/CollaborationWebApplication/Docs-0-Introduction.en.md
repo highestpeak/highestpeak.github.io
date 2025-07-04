@@ -52,6 +52,12 @@ This series has the following requirements and positioning:
 
 ## Project and Me
 
+Back in my junior year of college, I was once lying on my sofa, pondering how to become an excellent software engineer. I then created a “Challenging projects every programmer should try” Dream Project list, including a series of large-scale, complex projects with demanding algorithms. One of them was “Spreadsheets.” During school, I frequently used Office to complete assignments but noticed its limitations in some cases. Like many programmers, I thought: if it’s so cumbersome, why not build my own? So I started by recreating Office 2016’s UI in Qt. Though I only managed to finish the toolbar UI after a month, and the functionality proved to be a massive challenge, that experience gave me my first glimpse into the complexity of spreadsheets.
+
+![](https://cdn.jsdelivr.net/gh/highestpeak/public-image@master//20250704153523869.png "My desk in my second year of university.")
+
+During campus recruitment, I interviewed with Kuaishou’s online document team. I vividly remember asking HR, “Microsoft has been doing this for twenty or thirty years; what’s left to do?” The HR’s shrug was a humbling reminder. After graduation, I didn’t immediately join the online document team but worked in knowledge management and content review instead. Later in 2022, following a business restructuring, I successfully transferred to the Excel development team. This transition brought far greater challenges and made me realize that, compared to local documents, the performance and stability demands of online collaboration are much higher. Over the past two years, I have dedicated significant effort to performance optimization and core algorithms, experiencing the leap from a Dream Project to a real-world system.
+
 ![](https://cdn.jsdelivr.net/gh/highestpeak/public-image@master//20250704130448048.png "My First Day of Work, on July 8, 2021.")
 
 As stated in my [cv](/about/curriculum-vitae), since joining in 2021, over two and a half years, I worked on several modules: from content violation review, document search, to stateless architecture upgrades of the online spreadsheet, read/write performance optimization, and iterations of collaboration algorithms and protocols. After the team and company shifted to AI strategy, I also explored the integration of document systems with large language models (LLMs)—including how to efficiently vectorize massive amounts of documents and spreadsheets, and how to organize segmented text fragments. The trade-offs and strategies have been much more numerous and complex than initially expected.
@@ -65,6 +71,41 @@ Besides documents and spreadsheets, a complete web product, especially enterpris
 Finally, before the content begins, I must thank the teammates who have guided and supported me along the way. I thank my mentor Qiang, who taught me a lot—not only in deep professional skills but also in ways of doing things and thinking, truly a teacher and friend. I also thank my project colleagues, who helped me greatly in those early years, significantly broadening my technical vision and capabilities. I’m very grateful to my team leader and manager as well. Honestly, being able to work on this project is a kind of luck—such projects are rare. Even joining the team, the timing and environment must be just right to reap full benefits. After years of cooperation, my colleagues have become good friends—something not so common in China’s workplace environment.
 
 ![](https://cdn.jsdelivr.net/gh/highestpeak/public-image@master//0411F0BF-1BA3-478A-BAD3-E20C855B2CD9_1_201_a.jpeg "My Last Day of Work, on February 10, 2025.")
+
+Certainly! Here’s an optimized English rewrite of your text, focusing on clarity, natural flow, and readability, suitable for a technical blog or documentation:
+
+---
+
+## The History of Collaborative Products
+
+As I mentioned earlier, my motivation to develop a collaborative document system stems from unsatisfactory experiences with Microsoft Office. Every system has its origins and objectives. In the case of collaborative documents, these objectives were clearly defined by industry giants like Google. Understanding the evolution of collaborative documents is essential—not only does it reveal why they emerged, but it also provides critical context for the challenges we face today.
+
+At the heart of collaborative documents lies the collaborative algorithm. While such algorithms and mechanisms have been explored since before the 1990s, early efforts were not widely commercialized and bear limited relevance to modern online collaboration. For these reasons, I won’t delve into them further.
+
+Fundamentally, online collaboration algorithms deal with conflict resolution. Their utility is not limited to well-known platforms like Google Docs—they also play key roles in real-time chat systems, game servers, database conflict management, and more. For instance, the widely used Git version control system employs similar conflict resolution principles. The roots of online collaboration can be traced back to the [Operational Transformation (OT) algorithm](https://en.wikipedia.org/wiki/Operational_transformation), proposed in 1989. The concept of online collaborative documents truly took off with the launch of Google Docs in 2006—likely as a direct competitor to Microsoft Office 🤔.
+
+A milestone came in 2011 with the introduction of CRDTs (Conflict-free Replicated Data Types). CRDT algorithms are not only simpler and more accessible than OT, but they also facilitated the advancement of NoSQL technologies. Around the same time, the rise of cloud computing significantly lowered the cost of cloud services, and the widespread adoption of smartphones and 4G networks fueled a surge in demand for mobile productivity tools. User habits shifted rapidly from desktop to mobile, giving rise to a host of new SaaS products. While these early products weren't perfect, they laid the foundation for today’s online collaboration ecosystems.
+
+The founding of Notion in 2013, and its first release in 2016, ushered in a new era for collaborative documents. Notion’s remarkable product design, combined with rapid mobile internet growth and an accelerating trend in enterprise digital transformation, drove the collaborative document industry forward. By 2020, leading platforms like Microsoft Office 365 and Google Workspace had matured, making online productivity the new standard. Compared with earlier products, these platforms have achieved significant improvements in user experience and collaboration efficiency. The overall environment for innovation has flourished, resulting in the emergence of creative tools like Airtable and Coda and an industry-wide atmosphere of active innovation.
+
+The 2020s saw the COVID-19 pandemic trigger an unprecedented surge in global remote work. This fueled explosive growth in online document SaaS products. Tools such as Notion, Google Docs, and Microsoft Teams saw their user bases skyrocket, becoming the backbone of collaboration for remote teams everywhere.
+
+Since the release of GPT-3.5 in 2022, generative AI has taken off. Online collaborative platforms are now integrating AI features, further expanding their capabilities, and propelling the industry towards a new phase of maturity and innovation.
+
+## Overview of the System
+
+Before diving into technical details, it’s important to understand the core of collaborative document products from the user's perspective. In essence, collaborative documents boil down to two primary elements: "collaboration" and "documents."
+
+On the document side, the system needs to support standard office scenarios, enabling editing and viewing of formats such as Word, Excel, PowerPoint, Markdown, and PDF. Collaboration, meanwhile, requires that changes from different editors are accurately merged into a single document. Additionally, such systems often integrate meta-functions like document management and knowledge management.
+
+In the following sections, I’ll focus on the implementation of "collaborative mechanisms" and the technical underpinnings of the "document" itself. Knowledge management will be covered briefly, as it’s fundamentally a standard CRUD (Create, Read, Update, Delete) feature of any online system. While collaborative document systems may include complex modules such as permissions management, organizational structures, and file directory trees, these are tangential to the core features of a collaborative document. What truly distinguishes collaborative document systems from other online or local solutions are their two key components: collaboration and documents.
+
+![Three Components of Collaboration Document System](https://cdn.jsdelivr.net/gh/highestpeak/public-image@master//20250704190834435.png "Three Components of Collaboration Document System")
+
+With these two essential elements in mind, similar to most web-based systems, we must also look at the system’s frontend and backend architecture, as well as its data flow. Collaborative systems are unique in how they handle client-server communication, conflict resolution algorithms, and the design of WebSocket-based collaboration servers—all of which we’ll explore in detail in upcoming articles. The diagram below provides a high-level overview of the main components of such a system:
+
+![Simple system architecture of Collaboration Document System](https://cdn.jsdelivr.net/gh/highestpeak/public-image@master//20250704190734040.png "Simple system architecture of Collaboration Document System")
+
 ## Blueprint
 
 The envisaged table of contents is as follows:
