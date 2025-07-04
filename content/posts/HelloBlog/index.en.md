@@ -7,9 +7,9 @@ tags:
   - blog
   - init
   - personal
-  - "#Myself"
+  - myself
 categories:
-  - Blog
+  - myself
 featuredImage: https://cdn.jsdelivr.net/gh/highestpeak/public-image@master/HelloBlogBanner.png
 featuredImagePreview: https://cdn.jsdelivr.net/gh/highestpeak/public-image@master/HelloBlogBanner.png
 localBannerImageLink: "[[HelloBlogBanner.png]]"

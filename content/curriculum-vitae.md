@@ -4,7 +4,7 @@ date: 2024-09-05T02:47:00+08:00
 draft: false
 summary: 'My curriculum vitae for job and academic degree applications, or for personal introductions.'
 tags: ["CV", "introduction", "Myself", "hello", "Job", "Application"]
-categories: ["myself","blog"]
+categories: ["myself"]
 url: "/about/curriculum-vitae/"
 ---
 
@@ -129,4 +129,4 @@ March 2025 - now
 **Additional Information** 
 
 - If you require additional references to verify my work experience or academic records, please email me at [highestpeakpublic@gmail.com], and I will provide detailed contact information and relevant details. 
-- For more information about me, please explore the articles under the [`myself`](https://blog.echopeak.app/categories/myself/) tag on my blog.
+- For more information about me, please explore the articles under the [`myself`](https://highestpeak.github.io/categories/myself/) tag on my blog.
