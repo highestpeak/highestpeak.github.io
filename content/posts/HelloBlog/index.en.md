@@ -30,7 +30,7 @@ Since 2021, I have been working in the efficiency engineering department at Kuai
 
 Since 2025, I have left my hometown and embarked on my postgraduate journey in Auckland, pursuing a Master’s degree. This marks the beginning of my study-abroad adventure in New Zealand—the story is still unfolding, with new chapters being written every day~
 
-My dream is to become an independent developer, with a few products that sustain me, allowing me more time to study history and computer science, engage in open-source projects, and develop useful software for friends worldwide. I will work towards this goal, but I also need to earn a living, so I will continue working for the company while striving towards my personal objectives.
+My dream is to become an independent developer, with a few products that sustain me, allowing me more time to study history and computer science, engage in open-source projects, and develop useful software for friends worldwide. I will work towards this goal, but I also need to earn a living. Moreover, being an independent developer often means significantly fewer social opportunities, so gaining sufficient industry attention and building a professional network are equally important. For these reasons, I will continue working for the company while striving towards my personal objectives.
 
 ![](https://cdn.jsdelivr.net/gh/highestpeak/public-image@master//20250703182542769.png)
 
@@ -77,8 +77,8 @@ PS: Regarding exclusions:
 The process of building the blog has been full of twists and turns. Here’s a brief overview of my blog journey:
 
 - **Mid-2018**:
-  - I first considered blogging in my freshman year, exploring CSDN and Blog Park. Although I wrote a few articles on Blog Park, the platform's limitations and risks made it less appealing.
-  - (Blog Park faced significant issues such as self-censorship, the rise of LLM-related web scraping, and maintenance difficulties.)
+  - I first considered blogging in my freshman year, exploring CSDN and CNBlog. Although I wrote a few articles on CNBlog, the platform's limitations and risks made it less appealing.
+  - (CNBlog faced significant issues such as self-censorship, the rise of LLM-related web scraping, and maintenance difficulties.)
 - **End of 2018**:
   - Discovered [HEXO](https://hexo.io/) and used its NEXT theme. While initially exciting, I found that static sites and HEXO's limitations posed many issues.
   - (Generated HTML cluttered my GitHub graph, and dynamic content was hard to manage.)

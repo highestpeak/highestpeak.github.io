@@ -1,7 +1,43 @@
+
+- title: "Collaboration Document"
+  doc_link: "/docs-0-introduction/"
+  project_link: "https://qingque.cn/"
+  image: "https://cdn.jsdelivr.net/gh/highestpeak/public-image@master//20250727235356454.png"
+  desc: "I have been working on the collaboration document system for 3 years, and I have a deep understanding of the collaboration document system."
+  start_date: "2021-07-08"
+  end_date: "2025-02-12"
+  tags: ["Collaboration", "Web"]
+  categories: ["work experience"]
+  working: false
+
 - title: "FusionMusic"
-  doc_link: "https://github.com/highestpeak/group-project-fusioncoders"
+  doc_link: "/projects/fusionmusic/"
   project_link: "https://github.com/highestpeak/group-project-fusioncoders"
   image: "https://cdn.jsdelivr.net/gh/highestpeak/public-image@master//20250704175320909.png"
   desc: "Fusion Music is a collaborative music editing system that allows multiple users to work together on music projects in real-time. "
-  date: "2025-06-03"
-  tags: ["AI", "Collaboration", "Music", "Web"]
+  start_date: "2025-06-03"
+  tags: ["Collaboration", "Music", "Web"]
+  categories: ["course project"]
+  working: false
+
+- title: "Idea Stream"
+  doc_link: "/projects/ideastream/"
+  project_link: ""
+  image: ""
+  desc: "Idea Stream is a tool to analysis the independent ideas to help independent programmer better build their own projects with the help of AI."
+  start_date: "2025-05-08"
+  end_date: "now"
+  tags: ["AI", "Web"]
+  categories: ["Side Project"]
+  working: true
+
+- title: "Document Drawer"
+  doc_link: "/projects/document-drawer/"
+  project_link: ""
+  image: ""
+  desc: "Document Drawer is a tool to help you draw the all kinds of image for your document with the help of AI."
+  start_date: "2025-07-01"
+  end_date: "now"
+  tags: ["AI", "Web"]
+  categories: ["Side Project"]
+  working: true
