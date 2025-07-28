@@ -72,10 +72,6 @@ Finally, before the content begins, I must thank the teammates who have guided a
 
 ![](https://cdn.jsdelivr.net/gh/highestpeak/public-image@master//0411F0BF-1BA3-478A-BAD3-E20C855B2CD9_1_201_a.jpeg "My Last Day of Work, on February 10, 2025.")
 
-Certainly! Here’s an optimized English rewrite of your text, focusing on clarity, natural flow, and readability, suitable for a technical blog or documentation:
-
----
-
 ## The History of Collaborative Products
 
 As I mentioned earlier, my motivation to develop a collaborative document system stems from unsatisfactory experiences with Microsoft Office. Every system has its origins and objectives. In the case of collaborative documents, these objectives were clearly defined by industry giants like Google. Understanding the evolution of collaborative documents is essential—not only does it reveal why they emerged, but it also provides critical context for the challenges we face today.
