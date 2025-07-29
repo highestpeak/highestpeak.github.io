@@ -13,6 +13,8 @@ Email: [highestpeakpublic@gmail.com]
 
 GitHub: [https://github.com/highestpeak]
 
+LinkedIn: [https://www.linkedin.com/in/jakezhangpeak]
+
 ---
 
 **Professional Summary:**
@@ -44,6 +46,8 @@ July 8, 2021 – February 12, 2025
     - Managed a suite of over 50 microservices and collaborated with a backend team of 15+ and a frontend team of 50+.
     - Actively involved in project optimization and critical innovation projects, contributing to design, development, and testing phases.
 
+During this time, I received two promotions and a 50% increase in salary.
+
 ---
 
 **Education:**
@@ -53,21 +57,21 @@ Sichuan University, Chengdu, China
 September 2017 – June 2021  
 - **Honors:** Outstanding Engineer
 - **Relevant Courses:**
-    - C Programming
-    - Object-Oriented Programming
-    - Data Structures and Algorithms
-    - Computer Organization and Architecture
-    - Software Engineering
-    - Systems Programming
-    - Operating Systems
-    - Computer Networks
-    - Database Systems
-    - Software Quality Assurance and Testing
-    - Linear Algebra
-    - Mathematical Statistics
-    - Discrete Mathematics
-    - Calculus
-    - IT Industry Internship
+    - C Programming A-
+    - Object-Oriented Programming A+
+    - Data Structures and Algorithms A-
+    - Computer Organization and Architecture A+
+    - Software Engineering A-
+    - Systems Programming A
+    - Operating Systems A
+    - Computer Networks A
+    - Database Systems A
+    - Software Quality Assurance and Testing A+
+    - Linear Algebra A
+    - Mathematical Statistics A-
+    - Discrete Mathematics A-
+    - Calculus B+
+    - IT Industry Internship A+
 - **Final Year Project:**
     - **Title:** Design and Implementation of an RSS-Based Information Aggregation System
     - **Description:** Developed a web-based application using recommendation algorithms and text clustering algorithms.
@@ -76,10 +80,10 @@ September 2017 – June 2021
 University of Auckland, New Zealand
 March 2025 - now
 - **Relevant Courses:**
-	- COMPSCI 732: Software Tools and Techniques
-	- SOFTENG 701: Advanced Software Engineering Development Methods
-	- SOFTENG 751: High Performance Computing
-	- SOFTENG 754: Advanced Software Requirements Engineering
+	- COMPSCI 732: Software Tools and Techniques A+
+	- SOFTENG 701: Advanced Software Engineering Development Methods A
+	- SOFTENG 751: High Performance Computing A
+	- SOFTENG 754: Advanced Software Requirements Engineering A-
 
 ---
 
