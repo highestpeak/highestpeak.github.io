@@ -26,13 +26,13 @@ LinkedIn: [https://www.linkedin.com/in/jakezhangpeak]
 
 **Professional Summary:**
 
-Experienced Java Backend Development Engineer with over three years at [Kuaishou, one of China’s top short-video platforms](https://en.wikipedia.org/wiki/Kuaishou). Expertise in collaborative software development, algorithm processing, and large-scale distributed data-intensive systems. 
+Software Engineer with over three years of industry experience at [Kuaishou, one of China’s top short-video platforms](https://en.wikipedia.org/wiki/Kuaishou), specializing in Java backend development, collaborative software architecture, and large-scale distributed systems. Proven track record in performance optimization, including a major overhaul of the Operational Transformation protocol that achieved 96% reduction in processing time.
 
-Proven track record in performance optimization and data structure enhancement, including a major overhaul of the Operational Transformation protocol for online forms.
+Over the past year, broadened into full-stack development through independent projects and academic work — building web applications with React, TypeScript, and WebSocket, integrating diverse APIs, and optimizing frontend performance including serialization and data parsing layers. Frequently takes the technical lead role in team projects. Comfortable working across the entire stack from backend services to frontend interfaces.
 
-Specialized in AI application development, with hands-on experience in Retrieval-Augmented Generation (RAG) and AI Agent frameworks. Focused on the application layer, adept at integrating Large Language Models (LLMs) with various toolchains. Skilled in analyzing and exploring the synergy between LLMs and real-world product scenarios to deliver robust AI-driven solutions.
+Specialized in AI application development, with hands-on experience in RAG, AI Agent frameworks, and deep integration of LLMs with product workflows. Practices AI-assisted software engineering extensively — from leveraging Claude Code and Cursor for rapid full-stack development and automated testing, to solving AI-specific engineering challenges such as LLM streaming output optimization.
 
-Passionate about managing software complexity and fostering innovative development. Seeking to contribute to an international company while engaging in open-source projects and independent development.
+Seeking to contribute to an international company while engaging in open-source and independent development.
 
 ---
 
@@ -85,12 +85,27 @@ September 2017 – June 2021
 
 **Master of Engineering Studies in Software Engineering**
 University of Auckland, New Zealand
-March 2025 - now
+March 2025 – Expected July 2026
 - **Relevant Courses:**
 	- COMPSCI 732: Software Tools and Techniques A+
-	- SOFTENG 701: Advanced Software Engineering Development Methods A
+	- ENVENG 702: Engineering Decision Making Aotearoa A+
 	- SOFTENG 751: High Performance Computing A
-	- SOFTENG 754: Advanced Software Requirements Engineering A-
+	- SOFTENG 754: Advanced Software Requirements Engineering A
+	- COMPSCI 725: Usable Security and Privacy Engineering A
+	- SOFTENG 701: Advanced Software Engineering Development Methods A-
+	- SOFTENG 761: Advanced Agile and Lean Software Development B+ (Served as Scrum Master in a real-client team project)
+	- COMPSYS 726: Robotics and Intelligent Systems A-
+- **Academic Projects:**
+    - **Fusion Music — Collaborative Real-Time Music Editor** (COMPSCI 732): Built a multi-user real-time collaborative music editing platform as technical lead (~80% of implementation). Designed DDD architecture, implemented WebSocket-based real-time collaboration protocol, set up CI/CD pipeline (GitHub Actions), and managed deployment on DigitalOcean. Tech: TypeScript, React, Node.js, MongoDB, WebSocket, GitHub Actions. [Project Page](/projects/fusionmusic/)
+    - **Reinforcement Learning for Pokémon Showdown** (COMPSYS 726): Designed and trained an RL agent for the Pokémon Showdown battle environment. Engineered a 40-dimensional state representation, shaped reward functions balancing win-rate optimization with learning stability, and analyzed trade-offs between learnability and reward alignment under partial observability and stochasticity. Tech: Python, Reinforcement Learning. [Full Report](/reports/726-reinforcement-learning-pokemon.pdf)
+    - **Thread-Safe Concurrent Priority Queue** (SOFTENG 751): Designed and implemented three concurrent priority queue variants — Blocking Multi-Heap (segmented locking), Lock-Free Skip List (CAS-based), and Wait-Free Bucket Queue — each targeting a different synchronization guarantee. Conducted comprehensive correctness and performance evaluations under varying concurrency scenarios. Report received full marks. Tech: Java, concurrent data structures, JMH benchmarking. [Full Report](/reports/751-concurrent-priority-queue.pdf)
+
+---
+
+**Personal Projects:**
+
+- **Peak Assistant** — An AI-powered Obsidian plugin (90,000+ lines of TypeScript) supporting multi-provider LLM integration (Claude, OpenAI, Google, Ollama), SQLite-based RAG pipeline with vector search, and real-time streaming output optimization (O(n²)→O(n)). Tech: TypeScript, React, SQLite, LangChain, Zustand.
+- **Collaboration Document System** — Authored a technical article series documenting 3 years of collaborative document/spreadsheet engineering, well-received by the developer community. [Article Series](/docs-0-introduction/)
 
 ---
 
@@ -102,8 +117,8 @@ March 2025 - now
 - **Web Technologies:**
     - **Backend:** Spring Framework, Redis, Kafka, MySQL, Elasticsearch, MongoDB
     - **Frontend:** HTML, CSS, React, Vue, Node.js
-- **Tools:** Git, VSCode, Cursor, Docker, IntelliJ IDEA, Android Studio, Vim, Maven
-- **Specialized Areas:** Prompt Engineering, LLM Agent Development, Search Solutions and RAG, Online Collaboration Solutions, Data Structure Optimization
+- **Tools:** Git, VSCode, Cursor, Claude Code, Docker, IntelliJ IDEA, Android Studio, Vim, Maven
+- **Specialized Areas:** Prompt Engineering, LLM Agent Development, AI-Assisted Software Engineering, Search Solutions and RAG, Online Collaboration Solutions, Data Structure Optimization
 
 **Soft Skills:**
 
@@ -121,12 +136,15 @@ March 2025 - now
 
 **Mandarin:** Native
 
-**English:** IELTS (Improving now~)
-- Listening: 6.5
-- Reading: 7.5
-- Writing: 6.0
-- Speaking: 6.0
-- Overall: 6.5
+**English:** IELTS Overall 6.5 (Listening 6.5, Reading 7.5, Writing 6.0, Speaking 6.0)
+
+Comfortable with daily professional conversations and capable of delivering prepared presentations independently. Continuously improving through academic coursework and professional interactions in New Zealand.
+
+---
+
+**Community Involvement:**
+
+- Active participant in Auckland tech meetups including MongoDB Auckland Meetup and Code & Coffee, engaging with the local developer community.
 
 ---
 

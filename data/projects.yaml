@@ -20,6 +20,17 @@
   categories: ["course project"]
   working: false
 
+- title: "Peak Assistant"
+  doc_link: ""
+  project_link: ""
+  image: ""
+  desc: "An AI-powered Obsidian plugin with multi-provider LLM support (Claude, OpenAI, Google, Ollama), RAG pipeline with SQLite vector search, and knowledge graph visualization."
+  start_date: "2025-11-01"
+  end_date: "now"
+  tags: ["AI", "Obsidian", "Plugin"]
+  categories: ["Side Project"]
+  working: true
+
 - title: "Idea Stream"
   doc_link: "/projects/ideastream/"
   project_link: ""
