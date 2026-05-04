@@ -43,11 +43,11 @@ Kuaishou Technology, Beijing, China
 July 8, 2021 – February 12, 2025
 
 - **Timeline:**
-    - **July 2021 – December 2021:** Developed a compliance review system for public content in the online collaborative document community.
-    - **January 2022 – December 2022:** Led the stateless transformation of online collaborative form services, reducing single points of failure and leveraging caching to improve performance, resulting in a 99% decrease in service exceptions.  (For detailed technical insights, please feel free to contact me directly.)
-    - **January 2023 – December 2023:** Optimized the data structure and collaborative algorithm of the online form editing protocol. Revamped the Operational Transformation (OT) protocol, achieving a 96% reduction in processing time (from several seconds or minutes to milliseconds) and data compression rates ranging from tens to thousands of times, depending on data characteristics.  (For detailed technical insights, please feel free to contact me directly.)
-    - **January 2024 – June 2024:** Developed an exploratory project for a generative model-based E-commerce automated customer service system.
     - **June 2024 – February 2025:** Integrated LLM Agents and LLM Copilot with enterprise IM tools, focusing on enhancing functionality and user experience.
+    - **January 2024 – June 2024:** Developed an exploratory project for a generative model-based E-commerce automated customer service system.
+    - **January 2023 – December 2023:** Optimized the data structure and collaborative algorithm of the online form editing protocol. Revamped the Operational Transformation (OT) protocol, achieving a 96% reduction in processing time (from several seconds or minutes to milliseconds) and data compression rates ranging from tens to thousands of times, depending on data characteristics.  (For detailed technical insights, please feel free to contact me directly.)
+    - **January 2022 – December 2022:** Led the stateless transformation of online collaborative form services, reducing single points of failure and leveraging caching to improve performance, resulting in a 99% decrease in service exceptions.  (For detailed technical insights, please feel free to contact me directly.)
+    - **July 2021 – December 2021:** Developed a compliance review system for public content in the online collaborative document community.
 - **Responsibilities:**
     - Developed and maintained over 500,000 lines of backend code for online collaborative office software.
     - Managed a suite of over 50 microservices and collaborated with a backend team of 15+ and a frontend team of 50+.
@@ -58,6 +58,23 @@ During this time, I received two promotions and a 50% increase in salary.
 ---
 
 **Education:**
+
+**Master of Engineering Studies in Software Engineering**
+University of Auckland, New Zealand
+March 2025 – Expected July 2026
+- **Relevant Courses:**
+	- COMPSCI 732: Software Tools and Techniques A+
+	- ENVENG 702: Engineering Decision Making Aotearoa A+
+	- SOFTENG 751: High Performance Computing A
+	- SOFTENG 754: Advanced Software Requirements Engineering A
+	- COMPSCI 725: Usable Security and Privacy Engineering A
+	- SOFTENG 701: Advanced Software Engineering Development Methods A-
+	- SOFTENG 761: Advanced Agile and Lean Software Development B+ (Served as Scrum Master in a real-client team project)
+	- COMPSYS 726: Robotics and Intelligent Systems A-
+- **Academic Projects:**
+    - **Fusion Music — Collaborative Real-Time Music Editor** (COMPSCI 732): Built a multi-user real-time collaborative music editing platform as technical lead (~80% of implementation). Designed DDD architecture, implemented WebSocket-based real-time collaboration protocol, set up CI/CD pipeline (GitHub Actions), and managed deployment on DigitalOcean. Tech: TypeScript, React, Node.js, MongoDB, WebSocket, GitHub Actions. [Project Page](/projects/fusionmusic/)
+    - **Reinforcement Learning for Pokémon Showdown** (COMPSYS 726): Designed and trained an RL agent for the Pokémon Showdown battle environment. Engineered a 40-dimensional state representation, shaped reward functions balancing win-rate optimization with learning stability, and analyzed trade-offs between learnability and reward alignment under partial observability and stochasticity. Tech: Python, Reinforcement Learning. [Full Report](/reports/726-reinforcement-learning-pokemon.pdf)
+    - **Thread-Safe Concurrent Priority Queue** (SOFTENG 751): Designed and implemented three concurrent priority queue variants — Blocking Multi-Heap (segmented locking), Lock-Free Skip List (CAS-based), and Wait-Free Bucket Queue — each targeting a different synchronization guarantee. Conducted comprehensive correctness and performance evaluations under varying concurrency scenarios. Report received full marks. Tech: Java, concurrent data structures, JMH benchmarking. [Full Report](/reports/751-concurrent-priority-queue.pdf)
 
 **Bachelor of Engineering in Software Engineering**  
 Sichuan University, Chengdu, China  
@@ -82,23 +99,6 @@ September 2017 – June 2021
 - **Final Year Project:**
     - **Title:** Design and Implementation of an RSS-Based Information Aggregation System
     - **Description:** Developed a web-based application using recommendation algorithms and text clustering algorithms.
-
-**Master of Engineering Studies in Software Engineering**
-University of Auckland, New Zealand
-March 2025 – Expected July 2026
-- **Relevant Courses:**
-	- COMPSCI 732: Software Tools and Techniques A+
-	- ENVENG 702: Engineering Decision Making Aotearoa A+
-	- SOFTENG 751: High Performance Computing A
-	- SOFTENG 754: Advanced Software Requirements Engineering A
-	- COMPSCI 725: Usable Security and Privacy Engineering A
-	- SOFTENG 701: Advanced Software Engineering Development Methods A-
-	- SOFTENG 761: Advanced Agile and Lean Software Development B+ (Served as Scrum Master in a real-client team project)
-	- COMPSYS 726: Robotics and Intelligent Systems A-
-- **Academic Projects:**
-    - **Fusion Music — Collaborative Real-Time Music Editor** (COMPSCI 732): Built a multi-user real-time collaborative music editing platform as technical lead (~80% of implementation). Designed DDD architecture, implemented WebSocket-based real-time collaboration protocol, set up CI/CD pipeline (GitHub Actions), and managed deployment on DigitalOcean. Tech: TypeScript, React, Node.js, MongoDB, WebSocket, GitHub Actions. [Project Page](/projects/fusionmusic/)
-    - **Reinforcement Learning for Pokémon Showdown** (COMPSYS 726): Designed and trained an RL agent for the Pokémon Showdown battle environment. Engineered a 40-dimensional state representation, shaped reward functions balancing win-rate optimization with learning stability, and analyzed trade-offs between learnability and reward alignment under partial observability and stochasticity. Tech: Python, Reinforcement Learning. [Full Report](/reports/726-reinforcement-learning-pokemon.pdf)
-    - **Thread-Safe Concurrent Priority Queue** (SOFTENG 751): Designed and implemented three concurrent priority queue variants — Blocking Multi-Heap (segmented locking), Lock-Free Skip List (CAS-based), and Wait-Free Bucket Queue — each targeting a different synchronization guarantee. Conducted comprehensive correctness and performance evaluations under varying concurrency scenarios. Report received full marks. Tech: Java, concurrent data structures, JMH benchmarking. [Full Report](/reports/751-concurrent-priority-queue.pdf)
 
 ---
 
