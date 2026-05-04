@@ -38,13 +38,13 @@ July 8, 2021 – February 12, 2025
 - **Timeline:**
     - **June 2024 – February 2025:** Integrated LLM Agents and LLM Copilot with enterprise IM tools, focusing on enhancing functionality and user experience.
     - **January 2024 – June 2024:** Developed an exploratory project for a generative model-based E-commerce automated customer service system.
-    - **January 2023 – December 2023:** Optimized the data structure and collaborative algorithm of the online form editing protocol. Revamped the Operational Transformation (OT) protocol, achieving a 96% reduction in processing time (from several seconds or minutes to milliseconds) and data compression rates ranging from tens to thousands of times, depending on data characteristics.  (For detailed technical insights, please feel free to contact me directly.)
-    - **January 2022 – December 2022:** Led the stateless transformation of online collaborative form services, reducing single points of failure and leveraging caching to improve performance, resulting in a 99% decrease in service exceptions.  (For detailed technical insights, please feel free to contact me directly.)
+    - **January 2023 – December 2023:** Optimized the data structure and collaborative algorithm of the online form editing protocol. Revamped the Operational Transformation (OT) protocol, achieving a 96% reduction in processing time (from several seconds or minutes to milliseconds) and data compression rates ranging from tens to thousands of times, depending on data characteristics.
+    - **January 2022 – December 2022:** Led the stateless transformation of online collaborative form services, reducing single points of failure and leveraging caching to improve performance, resulting in a 99% decrease in service exceptions.
     - **July 2021 – December 2021:** Developed a compliance review system for public content in the online collaborative document community.
 - **Responsibilities:**
     - Developed and maintained over 500,000 lines of backend code for online collaborative office software.
     - Managed a suite of over 50 microservices and collaborated with a backend team of 15+ and a frontend team of 50+.
-    - Actively involved in project optimization and critical innovation projects, contributing to design, development, and testing phases.
+    - Independently identified performance bottlenecks, researched solutions, and drove optimization initiatives end-to-end.
 
 During this time, I received two promotions and a 50% increase in salary.
 
@@ -116,11 +116,8 @@ September 2017 – June 2021
 **Soft Skills:**
 
 - Technical Design for Complex Problems
-- Problem Solving
-- Team Collaboration
-- Time Management
 - Software Complexity Control
-- Software Documentation
+- Technical Leadership
 - Code Review
 
 ---
